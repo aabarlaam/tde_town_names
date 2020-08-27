@@ -8,8 +8,7 @@ DYING EARTH TOWN NAMES v1.0
 ABOUT
 -----
 
-This GRF contains 150 names of cities, villages, castles, landmarks, demonlands and other inhabited places mentioned in the popular "Dying Earth" fantasy cycle by Jack Vance. 
-
+This GRF contains 150 names of cities, villages, castles, landmarks, demonlands and other inhabited places mentioned in the "The Dying Earth" fantasy cycle by Jack Vance. 
 
 -------------
 COMPATIBILITY
@@ -39,8 +38,6 @@ This GRF is licensed under the GNU General Public License version 2; see
 license.txt for full details.
 
 To find source code, screenshots and latest information, please visit the
-release topic on TT-Forums.net:
+github repo:
 
-* https://www.tt-forums.net/viewtopic.php?f=67&t=58276
-
-Translations of the language file are always welcome!
+* https://github.com/aabarlaam/tde_town_names
